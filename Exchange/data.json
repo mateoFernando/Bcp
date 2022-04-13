@@ -1,0 +1,165 @@
+{
+    "currencies": [
+        {
+            "country": "European Union",
+            "id": "EURO",
+            "title": "Euros",
+            "ratesBuy": {
+                "EURO" : 1.0,
+                "USD": 0.916,
+                "YEN": 134.98,
+                "POUND": 0.83,
+                "FRANC": 1.02,
+                "CD": 1.37,
+                "SOL" : 4.03
+            },
+            "ratesSell": {
+                "EURO" : 1.0,
+                "USD": 0.92,
+                "YEN": 135,
+                "POUND": 0.90,
+                "FRANC": 1.10,
+                "CD": 1.38,
+                "SOL" : 4.10
+            }
+        },
+        {
+            "country": "United States",
+            "id": "USD",
+            "title": "Dolares",
+            "ratesBuy": {
+                "USD" : 1.0,
+                "EURO": 0.924,
+                "YEN": 123.92,
+                "POUND": 0.77,
+                "FRANC": 0.93,
+                "CD": 1.26,
+                "SOL" : 3.71
+            },
+            "ratesSell": {
+                "USD" : 1.0,
+                "EURO": 0.94,
+                "YEN": 124.92,
+                "POUND": 0.87,
+                "FRANC": 0.87,
+                "CD": 1.30,
+                "SOL" : 3.80
+            }
+        },
+        {
+            "country": "Japan",
+            "id": "YEN",
+            "title": "Yenes",
+            "ratesBuy": {
+                "YEN": 1.0,
+                "EURO": 0.0074,
+                "USD": 0.0081,
+                "POUND": 0.0062,
+                "FRANC": 0.0075,
+                "CD": 0.010,
+                "SOL" : 0.030
+            },
+            "ratesSell": {
+                "YEN": 1.0,
+                "EURO": 0.0084,
+                "USD": 0.0091,
+                "POUND": 0.0072,
+                "FRANC": 0.0085,
+                "CD": 0.020,
+                "SOL" : 0.040
+            }
+        },
+        {
+            "country": "United Kingdom",
+            "id": "POUND",
+            "title": "Libras",
+            "ratesBuy": {
+                "POUND": 1.0,
+                "EURO": 1.20,
+                "USD": 1.31,
+                "YEN": 161.94,
+                "FRANC": 1.22,
+                "CD": 1.64,
+                "SOL" : 4.84
+            },
+            "ratesSell": {
+                "POUND": 1.0,
+                "EURO": 1.30,
+                "USD": 1.41,
+                "YEN": 162.94,
+                "FRANC": 1.32,
+                "CD": 1.74,
+                "SOL" : 4.95
+            }
+        },
+        {
+            "country": "Switzerland",
+            "id": "FRANC",
+            "title": "Francos",
+            "ratesBuy": {
+                "FRANC": 1.0,
+                "EURO": 0.99,
+                "USD": 1.07,
+                "YEN": 132.56,
+                "POUND": 0.82,
+                "CD": 1.35,
+                "SOL" : 3.97
+            },
+            "ratesSell": {
+                "FRANC": 1.0,
+                "EURO": 1.09,
+                "USD": 1.17,
+                "YEN": 133.56,
+                "POUND": 0.92,
+                "CD": 1.45,
+                "SOL" : 4.07
+            }
+        },
+        {
+            "country": "Canada",
+            "id": "CD",
+            "title": "Dolar Canadiense",
+            "ratesBuy": {
+                "CD": 1.0,
+                "EURO": 0.73,
+                "USD": 0.79,
+                "YEN": 98.46,
+                "POUND": 0.61,
+                "FRANC": 0.74,
+                "SOL" : 2.94
+            },
+            "ratesSell": {
+                "CD": 1.0,
+                "EURO": 0.83,
+                "USD": 0.89,
+                "YEN": 98.56,
+                "POUND": 0.71,
+                "FRANC": 0.84,
+                "SOL" : 3.04
+            }
+        },
+        {
+            "country": "Perú",
+            "id": "SOL",
+            "title": "Soles",
+            "ratesBuy": {
+                "SOL": 1.0,
+                "EURO": 0.25,
+                "USD": 0.27,
+                "YEN": 33.45,
+                "POUND": 0.21,
+                "FRANC": 0.25,
+                "CD" : 0.34
+            },
+            "ratesSell": {
+                "SOL": 1.0,
+                "EURO": 0.35,
+                "USD": 0.37,
+                "YEN": 33.55,
+                "POUND": 0.31,
+                "FRANC": 0.35,
+                "CD" : 0.44
+            }
+        }
+    ]
+}
